@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/bp_Target.uasset",
+				"D:/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"D:/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C0/BXSCRI1T4N88J40TFBAF6B.uasset",
+				"D:/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/OA/EKSMLBDS1VOZL00Q9X56X4.uasset",
+				"D:/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8H/V8VNQBWJZNGUH49HSZNLG1.uasset",
+				"D:/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
